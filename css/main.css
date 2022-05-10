@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body, html{
+    font-family: 'Roboto Condensed', sans-serif;
+    color:#717171;
+}
+
+
+/* form  */
+.container-customize{
+    width: 45%;
+    margin: 50px auto;
+    padding: 50px;
+    background-color: #74f1ff;
+    border-radius: 6px;
+}
+
+.error{
+    color: red;
+}
+
+
